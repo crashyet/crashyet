@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=B1F71F&center=true&width=435&lines=Hello%2C+Everyone!+%F0%9F%99%8C%F0%9F%8F%BB;I'm+Adhitya+Putra.;Nice+To+Meet+You!)](https://git.io/typing-svg)
+<h1 align="center">
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&pause=1000&color=B1F71F&center=true&width=700&height=55&lines=Hello%2C+Everyone!+%F0%9F%99%8C%F0%9F%8F%BB;I'm+Adhitya+Putra.;Nice+To+Meet+You!)](https://git.io/typing-svg)
+</h1>
 
 <!--
 **crashyet/crashyet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
