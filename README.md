@@ -1,5 +1,5 @@
 <h1 align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&pause=1000&color=B1F71F&center=true&width=700&height=55&lines=Hello%2C+Everyone!+%F0%9F%99%8C%F0%9F%8F%BB;I'm+Adhitya+Putra.;Nice+To+Meet+You!)](https://git.io/typing-svg)
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&pause=1000&color=B1F71F&center=true&width=700&height=55&lines=Hello%2C+Everyone!+%F0%9F%99%8C%F0%9F%8F%BB;I'm+Adhitya+Putra.;Nice+To+Meet+You!" alt="Typing" />
 </h1>
 
 <!--
@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&pause=1000&color=B1F71F&center=true&width=700&height=55&lines=Hello%2C+Everyone!+%F0%9F%99%8C%F0%9F%8F%BB;I'm+Adhitya+Putra.;Nice+To+Meet+You!)](https://git.io/typing-svg)
 -->
