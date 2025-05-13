@@ -10,7 +10,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=crashyet&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=material-palenight&hide_border=false&order=2" height="150" alt="Languages Graph"  />
-  <img src="https://streak-stats.demolab.com/?user=crashyet&mode=daily&theme=material-palenight&hide_border=false&border_radius=5&order=3" alt="Streak Graph" />
+  <img src="https://streak-stats.demolab.com/?user=crashyet&mode=daily&theme=material-palenight" height="150" alt="streak graph"  />
 </div>
 
 <!--
