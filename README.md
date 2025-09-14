@@ -52,7 +52,6 @@ https://github-profile-summary-cards.vercel.app/api/cards/profile-details?userna
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-
 </div> -->
 
 <br>
