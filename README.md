@@ -61,5 +61,3 @@ https://github-profile-summary-cards.vercel.app/api/cards/profile-details?userna
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/crashyet/crashyet/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/crashyet/crashyet/output/pacman-contribution-graph.svg">
 </picture>
-
-
