@@ -53,7 +53,6 @@ https://github-profile-summary-cards.vercel.app/api/cards/profile-details?userna
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 </div> -->
-
 <br>
 
 <picture>
